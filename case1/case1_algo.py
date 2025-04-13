@@ -1,12 +1,12 @@
 import argparse
-from utcxchangelib.xchange_client import XChangeClient, Side
-from utcxchangelib.xchange_client import SWAP_MAP
-import asyncio
+from utcxchangelib.xchange_client import XChangeClient, Side    # type: ignore
+from utcxchangelib.xchange_client import SWAP_MAP               # type: ignore
+import asyncio  
 import logging
 import math
 from math import log, sqrt
-from scipy.stats import norm
-import numpy as np
+from scipy.stats import norm                                    # type: ignore
+import numpy as np                                              # type: ignore
 from collections import deque
 import json
 import os
