@@ -6,14 +6,16 @@ Welcome to the UTC 2025 repository, which contains my team's code and supporting
 ## Table of Contents
 1. [Overview](#overview)
 2. [Repository Structure](#repository-structure)
-3. [Case 1: Live Trading Bot](#case-1:-live-trading-bot)
+3. [Case 1: Live Trading Bot](#case-1-live-trading-bot)
     1. [Competition Details](#competition-details)
     2. [Our Strategy](#our-strategy)
-4. [Case 2: Portfolio Optimization and Asset Return Prediction](#case-2:-portfolio-optimization-and-asset-return-prediction)
-    1. [Competition Details](#competition-details)
-    2. [Our Strategy](#our-strategy)
+4. [Case 2: Portfolio Optimization and Asset Return Prediction](#case-2-portfolio-optimization-and-asset-return-prediction)
+    1. [Competition Details](#competition-details-1)
+    2. [Our Strategy](#our-strategy-1)
 5. [utcxchangelib Library](#utcxchangelib-library)
 6. [Development and Contributions](#development-and-contributions)
+    1. [Code Structure](#code-structure)
+    2. [Logging](#logging)
 
 ---
 
